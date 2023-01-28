@@ -1,0 +1,5 @@
+C:\Users\yungo\Downloads\New folder (4)\A4-SalaryReport\A4-SalaryReport\bin\x86\Debug\A4_SalaryReport.exe
+C:\Users\yungo\Downloads\New folder (4)\A4-SalaryReport\A4-SalaryReport\bin\x86\Debug\A4-SalaryReport.idy
+C:\Users\yungo\Downloads\New folder (4)\A4-SalaryReport\A4-SalaryReport\obj\x86\Debug\A4_SalaryReport.exe
+C:\Users\yungo\Downloads\New folder (4)\A4-SalaryReport\A4-SalaryReport\obj\x86\Debug\A4-SalaryReport.idy
+C:\Users\yungo\Downloads\New folder (4)\A4-SalaryReport\A4-SalaryReport\obj\x86\Debug\A4-SalaryReport.obj

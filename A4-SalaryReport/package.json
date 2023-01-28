@@ -1,7 +1,7 @@
 {
     "name": "mafd-w2023-salary-report",
   "version": "1.0.0",
-  "description": "lab4 toy-app",
+  "description": "salary report",
   "main": "app.js",
   "repository": "https://github.com/ospaghetti/Salary-Report-Cobol-VS",
   "author": "David Osagiede <david.osagiede@dcmail.ca>",
